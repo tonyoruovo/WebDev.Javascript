@@ -1,0 +1,420 @@
+{
+	"footer.jsx": [{
+		"msgId": "select_a_language",
+		"en": {"UK": "Select a language ...", "US": "Select a language ..."},
+		"fr": {"FR": "Sélectionnez une langue ..."},
+		"es": {"ES": "Selecciona un idioma ..."},
+		"ar": {"SA": "اختر لغة ..."},
+		"zh": {"CN": "选择一种语言...", "HK": "選擇一種語言..."},
+		"hi": {"IN": "भाषा चुनें ..."},
+		"sw": {"KE": "Chagua lugha..."}
+	}, {
+		"msgId": "privacy_policy",
+		"en": {"UK": "Privacy Policy", "US": "Privacy Policy"},
+		"fr": {"FR": "Politique de confidentialité"},
+		"es": {"ES": "Política de privacidad"},
+		"ar": {"SA": "سياسة الخصوصية"},
+		"zh": {"CN": "隐私政策", "HK": "隱私政策"},
+		"hi": {"IN": "गोपनीयता नीति"},
+		"sw": {"KE": "Sera ya faragha"}
+	}, {
+		"msgId": "about_us",
+		"en": {"UK": "About us", "US": "About us"},
+		"fr": {"FR": "À propos de nous"},
+		"es": {"ES": "Sobre nosotros"},
+		"ar": {"SA": "معلومات عنا"},
+		"hi": {"IN": "हमारे बारे में"},
+		"zh": {"CN": "关于我们", "HK": "關於我們"},
+		"sw": {"KE": "Kuhusu sisi"}
+	}, {
+		"msgId": "faq",
+		"en": {"UK": "FAQ", "US": "FAQ"},
+		"fr": {"FR": "FAQ"},
+		"es": {"ES": "Preguntas más frecuentes"},
+		"ar": {"SA": "التعليمات"},
+		"hi": {"IN": "सामान्य प्रश्न"},
+		"zh": {"CN": "常问问题", "HK": "常問問題"},
+		"sw": {"KE": "Maswali Yanayoulizwa Mara kwa Mara"}
+	}, {
+		"msgId": "change_lang",
+		"en": {"UK": "Select website language here", "US": "Select site language here"},
+		"fr": {"FR": "Sélectionnez la langue du site ici"},
+		"es": {"ES": "Seleccione el idioma del sitio web aquí"},
+		"ar": {"SA": "اختر لغة الموقع هنا"},
+		"hi": {"IN": "यहां वेबसाइट की भाषा चुनें"},
+		"zh": {"CN": "在此处选择网站语言", "HK": "在此處選擇網站語言"},
+		"sw": {"KE": "Chagua lugha ya tovuti hapa"}
+	}],
+	"main.jsx": [{
+		"msgId": "fb",
+		"en": {"UK": "facebook", "US": "facebook"},
+		"fr": {"FR": "facebook"},
+		"es": {"ES": "facebook"},
+		"ar": {"SA": "فيسبوك"},
+		"zh": {"CN": "facebook", "HK": "facebook"},
+		"hi": {"IN": "फेसबुक"},
+		"sw": {"KE": "facebook"}
+	}, {
+		"msgId": "gh",
+		"en": {"UK": "github", "US": "github"},
+		"fr": {"FR": "github"},
+		"es": {"ES": "github"},
+		"ar": {"SA": "جيثب"},
+		"zh": {"CN": "知乎", "HK": "知乎"},
+		"hi": {"IN": "github"},
+		"sw": {"KE": "github"}
+	}, {
+		"msgId": "gm",
+		"en": {"UK": "gmail", "US": "gmail"},
+		"fr": {"FR": "gmail"},
+		"es": {"ES": "gmail"},
+		"ar": {"SA": "gmail"},
+		"zh": {"CN": "电子邮件", "HK": "電子郵件"},
+		"hi": {"IN": "जीमेल लगीं"},
+		"sw": {"KE": "gmail"}
+	}, {
+		"msgId": "tel",
+		"en": {"UK": "telegram", "US": "telegram"},
+		"fr": {"FR": "télégramme"},
+		"es": {"ES": "telegrama"},
+		"ar": {"SA": "برقية"},
+		"zh": {"CN": "电报", "HK": "電報"},
+		"hi": {"IN": "तार"},
+		"sw": {"KE": "telegramu"}
+	}, {
+		"msgId": "tw",
+		"en": {"UK": "twitter", "US": "twitter"},
+		"fr": {"FR": "télégramme"},
+		"es": {"ES": "gorjeo"},
+		"ar": {"SA": "تويتر"},
+		"zh": {"CN": "推特", "HK": "推特"},
+		"hi": {"IN": "ट्विटर"},
+		"sw": {"KE": "twitter"}
+	}, {
+		"msgId": "wa",
+		"en": {"UK": "whatsapp", "US": "whatsapp"},
+		"fr": {"FR": "WhatsApp"},
+		"es": {"ES": "whatsapp"},
+		"ar": {"SA": "واتس اب"},
+		"zh": {"CN": "微信", "HK": "微信"},
+		"hi": {"IN": "WHATSAPP"},
+		"sw": {"KE": "whatsapp"}
+	}, {
+		"msgId": "yt",
+		"en": {"UK": "youtube", "US": "youtube"},
+		"fr": {"FR": "Youtube"},
+		"es": {"ES": "YouTube"},
+		"ar": {"SA": "موقع YouTube"},
+		"zh": {"CN": "YouTube", "HK": "YouTube"},
+		"hi": {"IN": "यूट्यूब"},
+		"sw": {"KE": "youtube"}
+	}],
+	"header.jsx": [{
+		"msgId": "gthp",
+		"en": {"UK": "Go to homepage", "US": "Go to homepage"},
+		"fr": {"FR": "Aller à la page d'accueil"},
+		"es": {"ES": "Ir a la página de inicio"},
+		"ar": {"SA": "اذهب إلى الصفحة الرئيسية"},
+		"zh": {"CN": "去首页", "HK": "去首頁"},
+		"hi": {"IN": "मुखपृष्ठ प्र जाएं"},
+		"sw": {"KE": "Nenda kwenye ukurasa wa nyumbani"}
+	}, {
+		"msgId": "sfa",
+		"en": {"UK": "search for articles", "US": "search for articles"},
+		"fr": {"FR": "rechercher des articles"},
+		"es": {"ES": "buscar artículos"},
+		"ar": {"SA": "البحث عن المقالات"},
+		"zh": {"CN": "搜索文章", "HK": "搜索文章"},
+		"hi": {"IN": "लेख खोजें"},
+		"sw": {"KE": "tafuta makala"}
+	}, {
+		"msgId": "ctsts",
+		"en": {"UK": "Click to search this website", "US": "Click to search this site"},
+		"fr": {"FR": "Cliquez pour rechercher ce site"},
+		"es": {"ES": "Haga clic para buscar en este sitio"},
+		"ar": {"SA": "انقر للبحث في هذا الموقع"},
+		"zh": {"CN": "点击搜索本站", "HK": "點擊搜索本站"},
+		"hi": {"IN": "इस साइट को खोजने के लिए क्लिक करें"},
+		"sw": {"KE": "Bofya ili kutafuta tovuti hii"}
+	}, {
+		"msgId": "sap_con",
+		"en": {"UK": ["Swap the background with foreground colour", "Contrast"], "US": ["Swap the background with foreground color", "Contrast"]},
+		"fr": {"FR": ["Échangez l'arrière-plan avec la couleur de premier plan", "Contraste"]},
+		"es": {"ES": ["Cambia el fondo con el color de primer plano", "Contraste"]},
+		"ar": {"SA": ["قم بتبديل الخلفية باللون الأمامي", "مقابلة"]},
+		"zh": {"CN": ["用前景颜色交换背景", "对比"], "HK": ["用前景顏色交換背景", "對比"]},
+		"hi": {"IN": ["पृष्ठभूमि को अग्रभूमि रंग से बदलें", "अंतर"]},
+		"sw": {"KE": ["Badilisha mandharinyuma na rangi ya mandharinyuma", "Tofautisha"]}
+	}, {
+		"msgId": "smpam",
+		"en": {"UK": ["See my projects and more ...", "Api/Documentation/Projects"], "US": ["See my projects and more ...", "Api/Documentation/Projects"]},
+		"fr": {"FR": ["Voir mes projets et plus...", "API/Documentation/Projets"]},
+		"es": {"ES": ["Ver mis proyectos y más...", "Api/Documentación/Proyectos"]},
+		"ar": {"SA": ["شاهد مشاريعي والمزيد ...", "API / التوثيق / المشاريع"]},
+		"zh": {"CN": ["查看我的項目和更多...", "Api/文档/项目"], "HK": ["查看我的項目和更多...", "Api/文檔/項目"]},
+		"hi": {"IN": ["मेरे प्रोजेक्ट देखें और बहुत कुछ...", "एपीआई/दस्तावेज़ीकरण/Projects"]},
+		"sw": {"KE": ["Tazama miradi yangu na zaidi ...", "Api/Nyaraka/Miradi"]}
+	}, {
+		"msgId": "logout",
+		"en": {"UK": "Logout", "US": "Logout"},
+		"fr": {"FR": "Se déconnecter"},
+		"es": {"ES": "Cerrar sesión"},
+		"ar": {"SA": "تسجيل خروج"},
+		"zh": {"CN": "登出", "HK": "登出"},
+		"hi": {"IN": "लॉग आउट"},
+		"sw": {"KE": "Ondoka"}
+	}, {
+		"msgId": "acc",
+		"en": {"UK": ["Manage your account settings", "Account"], "US": ["Manage your account settings", "Account"]},
+		"fr": {"FR": ["Gérer les paramètres de votre compte", "Compte"]},
+		"es": {"ES": ["Administre la configuración de su cuenta", "Cuenta"]},
+		"ar": {"SA": ["إدارة إعدادات حسابك", "حساب"]},
+		"zh": {"CN": ["管理您的帐户设置", "帐户"], "HK": ["管理您的帳戶設置", "帳戶"]},
+		"hi": {"IN": ["अपनी खाता सेटिंग प्रबंधित करें", "खाता"]},
+		"sw": {"KE": ["Dhibiti mipangilio ya akaunti yako", "Akaunti"]}
+	}, {
+		"msgId": "rgstr",
+		"en": {"UK": "Register", "US": "Register"},
+		"fr": {"FR": "Enregistrer"},
+		"es": {"ES": "Registro"},
+		"ar": {"SA": "يسجل"},
+		"zh": {"CN": "登记", "HK": "登記"},
+		"hi": {"IN": "पंजीकरण करवाना"},
+		"sw": {"KE": "Sajili"}
+	}, {
+		"msgId": "login",
+		"en": {"UK": "Login", "US": "Login"},
+		"fr": {"FR": "Connexion"},
+		"es": {"ES": "Acceso"},
+		"ar": {"SA": "تسجيل الدخول"},
+		"zh": {"CN": "入口", "HK": "入口"},
+		"hi": {"IN": "लॉग इन करें"},
+		"sw": {"KE": "Ingia"}
+	}],
+	"converter.jsx" : [{
+		"msgId": "pusfn",
+		"en": {"UK": "Please use the sidebar for navigation", "US": "Please use the sidebar for navigation"},
+		"fr": {"FR": "Veuillez utiliser la barre latérale pour la navigation"},
+		"es": {"ES": "Utilice la barra lateral para navegar"},
+		"ar": {"SA": "الرجاء استخدام الشريط الجانبي للملاحة"},
+		"zh": {"CN": "请使用侧边栏进行导航", "HK": "請使用側邊欄進行導航"},
+		"hi": {"IN": "नेविगेशन के लिए कृपया साइडबार का उपयोग करें"},
+		"sw": {"KE": "Tafadhali tumia utepe kwa usogezaji"}
+	}, {
+		"msgId": "convs",
+		"en": {"UK": "Converters", "US": "Converters"},
+		"fr": {"FR": "Convertisseurs"},
+		"es": {"ES": "Convertidores"},
+		"ar": {"SA": "المحولات"},
+		"zh": {"CN": "转换器", "HK": "轉換器"},
+		"hi": {"IN": "कन्वर्टर्स"},
+		"sw": {"KE": "Vigeuzi"}
+	}, {
+		"msgId": "ang",
+		"en": {"UK": ["Angle", "Angle unit", "Convert between degrees, radians, gradians and more"], "US": ["Angle", "Angle unit", "Convert between degrees, radians, gradians and more"]},
+		"fr": {"FR": ["Angle", "Unité d'angle", "Convertir entre degrés, radians, grades et plus"]},
+		"es": {"ES": ["Ángulo", "Unidad de ángulo", "Convierte entre grados, radianes, gradianes y más"]},
+		"ar": {"SA": ["زاوية", "وحدة الزاوية", "التحويل بين الدرجات والراديان والجراديان والمزيد"]},
+		"zh": {"CN": ["角度", "角度单位", "在度数、弧度、梯度等之间进行转换"], "HK": ["角度", "角度單位", "在度數、弧度、梯度等之間進行轉換"]},
+		"hi": {"IN": ["कोण", "कोण इकाई", "डिग्री, रेडियन, ग्रेडियन और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Pembe", "Kitengo cha pembe", "Badilisha kati ya digrii, radian, graidi na zaidi"]}
+	}, {
+		"msgId": "area",
+		"en": {"UK": ["Area", "Area unit", "Convert between square yards, acres and more"], "US": ["Area", "Area unit", "Convert between square yards, acres and more"]},
+		"fr": {"FR": ["Zone", "Unité de surface", "Convertir entre yards carrés, acres et plus"]},
+		"es": {"ES": ["Área", "unidad de área", "Convierte entre yardas cuadradas, acres y más"]},
+		"ar": {"SA": ["منطقة", "وحدة المساحة", "تحويل بين ياردات مربعة وفدان وأكثر"]},
+		"zh": {"CN": ["面积", "面积单位", "在平方码、英亩等之间转换"], "HK": ["區域", "面積單位", "在平方碼、英畝等之間轉換"]},
+		"hi": {"IN": ["क्षेत्र", "क्षेत्र इकाई", "वर्ग गज, एकड़ और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Eneo", "Kitengo cha eneo", "Badilisha kati ya yadi za mraba, ekari na zaidi"]}
+	}, {
+		"msgId": "cur",
+		"en": {"UK": ["Currency", "Currency unit", "Convert between dollars, pounds, yen and more"], "US": ["Currency", "Currency unit", "Convert between dollars, pounds, yen and more"]},
+		"fr": {"FR": ["Monnaie", "Unité monétaire", "Convertir entre dollars, livres, yens et plus"]},
+		"es": {"ES": ["Divisa", "Unidad monetaria", "Convierte entre dólares, libras, yenes y más"]},
+		"ar": {"SA": ["عملة", "وحدة العملة", "تحويل بين الدولار والجنيه والين وأكثر"]},
+		"zh": {"CN": ["货币", "货币单位", "在美元、英镑、日元等之间转换"], "HK": ["貨幣", "面積單位", "在美元、英鎊、日元等之間轉換"]},
+		"hi": {"IN": ["मुद्रा", "मुद्रा इकाई", "डॉलर, पाउंड, येन और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Sarafu", "Kitengo cha sarafu", "Badilisha kati ya dola, pauni, yen na zaidi"]}
+	}, {
+		"msgId": "data",
+		"en": {"UK": ["Data", "Data unit", "Convert between bits, bytes, kibibytes and more"], "US": ["Data", "Data unit", "Convert between bits, bytes, kibibytes and more"]},
+		"fr": {"FR": ["Donnés", "Unité de données", "Convertir entre bits, octets, kibioctets et plus"]},
+		"es": {"ES": ["Datos", "unidad de datos", "Convierte entre bits, bytes, kibibytes y más"]},
+		"ar": {"SA": ["بيانات", "وحدة البيانات", "التحويل بين وحدات البايت والبايت والكيبايت والمزيد"]},
+		"zh": {"CN": ["数据", "数据单元", "在位、字节、千比字节等之间转换"], "HK": ["數據", "數據單元", "在位、字節、千比字節等之間轉換"]},
+		"hi": {"IN": ["आंकड़े", "डेटा यूनिट", "बिट्स, बाइट्स, किबिबाइट्स और बहुत कुछ के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Data", "Kitengo cha data", "Badilisha kati ya biti, baiti, kibibaiti na zaidi"]}
+	}, {
+		"msgId": "dist",
+		"en": {"UK": ["Distance", "Distance unit", "Convert between metres, feet, miles and more"], "US": ["Distance", "Distance unit", "Convert between meters, feet, miles and more"]},
+		"fr": {"FR": ["Distance", "Unité de distance", "Convertir entre mètres, pieds, miles et plus"]},
+		"es": {"ES": ["Distancia", "Unidad de distancia", "Convierte entre metros, pies, millas y más"]},
+		"ar": {"SA": ["مسافة", "وحدة المسافة", "تحويل بين الأمتار والقدم والأميال وأكثر"]},
+		"zh": {"CN": ["距离", "距离单位", "在米、英尺、英里等之间进行转换"], "HK": ["距離", "距離單位", "在米、英尺、英里等之間進行轉換"]},
+		"hi": {"IN": ["दूरी", "दूरी इकाई", "मीटर, फुट, मील और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Umbali", "Kitengo cha umbali", "Badilisha kati ya mita, miguu, maili na zaidi"]}
+	}, {
+		"msgId": "energy",
+		"en": {"UK": ["Energy", "Energy unit", "Convert between calories, electronvolt, joules and more"], "US": ["Energy", "Energy unit", "Convert between calories, electronvolt, joules and more"]},
+		"fr": {"FR": ["Énergie", "Unité d'énergie", "Convertir entre calories, électronvolt, joules et plus"]},
+		"es": {"ES": ["Energía", "Unidad de energía", "Convierte entre calorías, electronvoltios, julios y más"]},
+		"ar": {"SA": ["طاقة", "وحدة الطاقة", "قم بالتحويل بين السعرات الحرارية والفولت الإلكتروني والجول والمزيد"]},
+		"zh": {"CN": ["活力", "能量单位", "在卡路里、电子伏特、焦耳等之间进行转换"], "HK": ["活力", "能量單位", "在卡路里、電子伏特、焦耳等之間進行轉換"]},
+		"hi": {"IN": ["ऊर्जा", "ऊर्जा इकाई", "कैलोरी, इलेक्ट्रॉनवोल्ट, जूल और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Nishati", "Kitengo cha nishati", "Badilisha kati ya kalori, volt ya elektroni, joules na zaidi"]}
+	}, {
+		"msgId": "flow",
+		"en": {"UK": ["Flow", "Flow unit", "Convert between fluid movement rates"], "US": ["Flow", "Flow unit", "Convert between fluid movement rates"]},
+		"fr": {"FR": ["Couler", "Unité de débit", "Convertir entre les taux de mouvement des fluides"]},
+		"es": {"ES": ["Fluir", "Unidad de flujo", "Convertir entre tasas de movimiento de fluidos"]},
+		"ar": {"SA": ["تدفق", "وحدة التدفق", "التحويل بين معدلات حركة السوائل"]},
+		"zh": {"CN": ["流动", "流量单位", "流体运动速率之间的转换"], "HK": ["流動", "流量單位", "流體運動速率之間的轉換"]},
+		"hi": {"IN": ["प्रवाह", "प्रवाह इकाई", "द्रव गति दरों के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Mtiririko", "Kitengo cha mtiririko", "Badilisha kati ya viwango vya mwendo wa maji"]}
+	}, {
+		"msgId": "force",
+		"en": {"UK": ["Force", "Force unit", "Convert between newton and tonnes"], "US": ["Force", "Force unit", "Convert between newton and tons"]},
+		"fr": {"FR": ["Force", "Unité de force", "Conversion entre newton et tonnes"]},
+		"es": {"ES": ["Fuerza", "unidad de fuerza", "Convertir entre newton y toneladas"]},
+		"ar": {"SA": ["قوة", "وحدة القوة", "التحويل بين النيوتن والطن"]},
+		"zh": {"CN": ["力量", "力量单位", "牛顿和吨之间的转换"], "HK": ["力量", "力量單位", "牛頓和噸之間的轉換"]},
+		"hi": {"IN": ["ताकत", "बल इकाई", "न्यूटन और टन के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Nguvu", "Kitengo cha nguvu", "Badilisha kati ya Newton na tani"]}
+	}, {
+		"msgId": "frqy",
+		"en": {"UK": ["Frequency", "Frequency unit", "Convert between hertz and cycles"], "US": ["Frequency", "Frequency unit", "Convert between hertz and cycles"]},
+		"fr": {"FR": ["Fréquence", "Unité de fréquence", "Convertir entre hertz et cycles"]},
+		"es": {"ES": ["Frecuencia", "Unidad de frecuencia", "Convertir entre hercios y ciclos"]},
+		"ar": {"SA": ["تكرار", "وحدة التردد", "التحويل بين الدورات والهرتز"]},
+		"zh": {"CN": ["频率", "频率单位", "在赫兹和周期之间转换"], "HK": ["頻率", "頻率單位", "在赫茲和周期之間轉換"]},
+		"hi": {"IN": ["आवृत्ति", "आवृत्ति इकाई", "हर्ट्ज़ और चक्रों के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Mzunguko", "Kitengo cha masafa", "Badilisha kati ya hertz na mizunguko"]}
+	}, {
+		"msgId": "mss",
+		"en": {"UK": ["Mass", "Mass unit", "Convert between kilogrammes, ounces, pounds and more"], "US": ["Mass", "Mass unit", "Convert between kilograms, ounces, pounds and more"]},
+		"fr": {"FR": ["Masse", "Unité de masse", "Convertir entre kilogrammes, onces, livres et plus"]},
+		"es": {"ES": ["Masa", "unidad de masa", "Convierte entre kilogramos, onzas, libras y más"]},
+		"ar": {"SA": ["كتلة", "وحدة الكتلة", "قم بالتحويل بين الكيلوغرامات والأونصة والجنيه والمزيد"]},
+		"zh": {"CN": ["大量的", "质量单位", "在千克、盎司、磅等之间转换"], "HK": ["大量的", "質量單位", "在千克、盎司、磅等之間轉換"]},
+		"hi": {"IN": ["द्रव्यमान", "मास इकाई", "किलोग्राम, औंस, पाउंड और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Misa", "Kitengo cha misa", "Badilisha kati ya kilo, aunsi, pauni na zaidi"]}
+	}, {
+		"msgId": "pow",
+		"en": {"UK": ["Power", "Power unit", "Convert between horsepower, wattage, calorie per second and more"], "US": ["Power", "Power unit", "Convert between horsepower, wattage, calorie per second and more"]},
+		"fr": {"FR": ["Pouvoir", "Unité de puissance", "Convertir entre puissance, puissance, calories par seconde et plus"]},
+		"es": {"ES": ["Fuerza", "Unidad de poder", "Convierta entre caballos de fuerza, vataje, calorías por segundo y más"]},
+		"ar": {"SA": ["قوة", "وحدة الطاقة", "قم بالتحويل بين القدرة الحصانية والقوة الكهربائية والسعرات الحرارية في الثانية وأكثر"]},
+		"zh": {"HK": ["力量", "動力單元", "在馬力、瓦數、每秒卡路里等之間進行轉換"], "CN": ["力量", "动力单元", "在马力、瓦数、每秒卡路里等之间进行转换"]},
+		"hi": {"IN": ["शक्ति", "बिजली इकाई", "अश्वशक्ति, वाट क्षमता, प्रति सेकंड कैलोरी और अधिक के बीच परिवर्तित करें"]},
+		"sw": {"KE": ["Nguvu", "Kitengo cha nguvu", "Badilisha kati ya nguvu za farasi, wattage, kalori kwa sekunde na zaidi"]}
+	}, {
+		"msgId": "pres",
+		"en": {"UK": ["Pressure", "Pressure unit", "Convert between pascal, torr and more"], "US": ["Pressure", "Pressure unit", "Convert between pascal, torr and more"]},
+		"fr": {"FR": ["Pression", "Unité de pression", "Convertir entre pascal, torr et plus"]},
+		"es": {"ES": ["Presión", "Unidad de presión", "Convierte entre pascal, torr y más"]},
+		"ar": {"SA": ["ضغط", "وحدة الضغط", "تحويل بين باسكال ، تور وأكثر"]},
+		"zh": {"CN": ["压力", "压力单位", "在帕斯卡、托等之间转换"], "HK": ["壓力", "壓力單位", "在帕斯卡、託等之間轉換"]},
+		"hi": {"IN": ["दबाव", "दबाव इकाई", "पास्कल, टोर और अन्य के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Shinikizo", "Kitengo cha shinikizo", "Badilisha kati ya pascal, torr na zaidi"]}
+	}, {
+		"msgId": "spd",
+		"en": {"UK": ["Speed", "Speed unit", "Convert between kilometre and foot per hour, knots and more"], "US": ["Speed", "Speed unit", "Convert between kilometer and foot per hour, knots and more"]},
+		"fr": {"FR": ["Vitesse", "Unité de vitesse", "Convertir entre kilomètre et pied par heure, nœuds et plus"]},
+		"es": {"ES": ["Velocidad", "Unidad de velocidad", "Convertir entre kilómetro y pie por hora, nudos y más"]},
+		"ar": {"SA": ["سرعة", "وحدة السرعة", "تحويل بين كيلومتر وقدم في الساعة ، عقدة وأكثر"]},
+		"zh": {"CN": ["速度", "速度单位", "在公里和英尺每小时、节等之间转换"], "HK": ["速度", "速度單位", "在公里和英尺每小時、節等之間轉換"]},
+		"hi": {"IN": ["रफ़्तार", "गति इकाई", "किलोमीटर और फुट प्रति घंटा, समुद्री मील और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Kasi", "Kitengo cha kasi", "Badilisha kati ya kilomita na mguu kwa saa, mafundo na zaidi"]}
+	}, {
+		"msgId": "temp",
+		"en": {"UK": ["Temperature", "Temperature unit", "Convert between celsius, fahrenheit, kelvin and more"], "US": ["Temperature", "Temperature unit", "Convert between celsius, fahrenheit, kelvin and more"]},
+		"fr": {"FR": ["Température", "Unité de température", "Convertir entre Celsius, Fahrenheit, Kelvin et plus"]},
+		"es": {"ES": ["Temperatura", "Unidad de temperatura", "Convierte entre celsius, fahrenheit, kelvin y más"]},
+		"ar": {"SA": ["درجة حرارة", "درجة الحرارة وحدة", "التحويل بين درجات مئوية وفهرنهايت وكلفن وغير ذلك"]},
+		"zh": {"HK": ["溫度", "溫度單位", "在攝氏度、華氏度、開爾文等之間轉換"], "CN": ["温度", "温度单位", "在摄氏度、华氏度、开尔文等之间转换"]},
+		"hi": {"IN": ["तापमान", "तापमान इकाई", "सेल्सियस, फारेनहाइट, केल्विन और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Halijoto", "Kitengo cha joto", "Badilisha kati ya celsius, fahrenheit, kelvin na zaidi"]}
+	}, {
+		"msgId": "time",
+		"en": {"UK": ["Time", "Time unit", "Convert between seconds, months, days and more"], "US": ["Time", "Time unit", "Convert between seconds, months, days and more"]},
+		"fr": {"FR": ["Temps", "Unité de temps", "Convertir entre secondes, mois, jours et plus"]},
+		"es": {"ES": ["Tiempo", "Unidad de tiempo", "Convierte entre segundos, meses, días y más"]},
+		"ar": {"SA": ["وقت", "وحدة الوقت", "التحويل بين الثواني والأشهر والأيام والمزيد"]},
+		"zh": {"HK": ["時間", "時間單位", "在秒、月、日等之間轉換"], "CN": ["时间", "时间单位", "在秒、月、日等之间转换"]},
+		"hi": {"IN": ["समय", "समय इकाई", "सेकंड, महीने, दिन और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Wakati", "Kitengo cha wakati", "Badilisha kati ya sekunde, miezi, siku na zaidi"]}
+	}, {
+		"msgId": "torq",
+		"en": {"UK": ["Torque", "Torque unit", "Convert between newton-metre, pound-force-foot and more"], "US": ["Torque", "Torque unit", "Convert between newton-meter, pound-force-foot and more"]},
+		"fr": {"FR": ["Couple", "Unité de couple", "Conversion entre newton-mètre, livre-force-pied et plus"]},
+		"es": {"ES": ["Esfuerzo de torsión", "unidad de par", "Convierte entre newton-metro, libra-fuerza-pie y más"]},
+		"ar": {"SA": ["عزم الدوران", "وحدة عزم الدوران", "التحويل بين نيوتن-متر ، قوة الجنيه القدم وأكثر"]},
+		"zh": {"CN": ["力矩", "扭矩单位", "在牛顿米、磅力英尺等之间转换"], "HK": ["力矩", "扭矩單位", "在牛頓米、磅力英尺等之間轉換"]},
+		"hi": {"IN": ["टॉर्कः", "टॉर्क यूनिट", "न्यूटन-मीटर, पाउंड-बल-फुट और अधिक के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Torque", "Kitengo cha torque", "Badilisha kati ya mita ya newton, pound-force-foot na zaidi"]}
+	}, {
+		"msgId": "volu",
+		"en": {"UK": ["Volume", "Volume unit", "Convert between fluid measures like litres and cubic metres"], "US": ["Volume", "Volume unit", "Convert between fluid measures like liters and cubic meters"]},
+		"fr": {"FR": ["Volume", "Unité volumétrique", "Convertir entre les mesures de fluide comme les litres et les mètres cubes"]},
+		"es": {"ES": ["Volumen", "Unidad de volumen", "Convertir entre medidas de fluidos como litros y metros cúbicos"]},
+		"ar": {"SA": ["مقدار", "وحدة الصوت", "قم بالتحويل بين قياسات السوائل مثل اللترات والمتر المكعب"]},
+		"zh": {"CN": ["体积", "体积单位", "在升和立方米等流体单位之间进行转换"], "HK": ["體積", "體積單位", "在升和立方米等流體單位之間進行轉換"]},
+		"hi": {"IN": ["आयतन", "वॉल्यूम यूनिट", "लीटर और क्यूबिक मीटर जैसे द्रव मापों के बीच कनवर्ट करें"]},
+		"sw": {"KE": ["Kiasi", "Kitengo cha sauti", "Badilisha kati ya vipimo vya maji kama lita na mita za ujazo"]}
+	}, {
+		"msgId": "from",
+		"en": {"UK": "from", "US": "from"},
+		"fr": {"FR": "depuis"},
+		"es": {"ES": "de"},
+		"ar": {"SA": "من"},
+		"zh": {"CN": "从", "HK": "從"},
+		"hi": {"IN": "से"},
+		"sw": {"KE": "kutoka"}
+	}, {
+		"msgId": "enh",
+		"en": {"UK": "Enter a number here", "US": "Enter a number here"},
+		"fr": {"FR": "Entrez un nombre ici"},
+		"es": {"ES": "Introduzca un número aquí"},
+		"ar": {"SA": "أدخل رقمًا هنا"},
+		"zh": {"HK": "在這裡輸入一個數字", "CN": "在这里输入一个数字"},
+		"hi": {"IN": "यहां एक नंबर दर्ज करें"},
+		"sw": {"KE": "Weka nambari hapa"}
+	}, {
+		"msgId": "confr",
+		"en": {"UK": "Convert from", "US": "Convert from"},
+		"fr": {"FR": "Convertir de"},
+		"es": {"ES": "Convertir de"},
+		"ar": {"SA": "تحويل من"},
+		"zh": {"CN": "转换自", "HK": "轉換自"},
+		"hi": {"IN": "से कनवर्ट करें"},
+		"sw": {"KE": "Badilisha kutoka"}
+	}, {
+		"msgId": "swit",
+		"en": {"UK": "SWITCH", "US": "SWITCH"},
+		"fr": {"FR": "CHANGER"},
+		"es": {"ES": "CAMBIAR"},
+		"ar": {"SA": "يُحوّل"},
+		"zh": {"HK": "轉變", "CN": "转变"},
+		"hi": {"IN": "बदलना"},
+		"sw": {"KE": "BADILISHA"}
+	}, {
+		"msgId": "to",
+		"en": {"UK": "to", "US": "to"},
+		"fr": {"FR": "pour"},
+		"es": {"ES": "a"},
+		"ar": {"SA": "ل"},
+		"zh": {"CN": "到", "HK": "到"},
+		"hi": {"IN": "को"},
+		"sw": {"KE": "kwa"}
+	}, {
+		"msgId": "conto",
+		"en": {"UK": "Convert to", "US": "Convert to"},
+		"fr": {"FR": "Convertir en"},
+		"es": {"ES": "Convertir a"},
+		"ar": {"SA": "حول الى"},
+		"zh": {"HK": "轉換成", "CN": "转换成"},
+		"hi": {"IN": "में बदलो"},
+		"sw": {"KE": "Badilisha kuwa"}
+	}]
+}

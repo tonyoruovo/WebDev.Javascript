@@ -1,0 +1,129 @@
+header {
+  background-color: var(--c1);
+  color: var(--c2);
+}
+header > nav.nav {
+  display: block;
+  width: 100%;
+  /* border-radius: 0.3em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black; */
+}
+header ul > li {
+  list-style-type: none;
+}
+header > nav.nav > ul.nav-items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+header > nav.nav > ul.nav-items > li.nav-item {
+  padding: 0 1em;
+}
+.nav-item.no-shrink {
+  width: 100%;
+  /* flex-grow: 1; */
+  margin: 0;
+  padding: 0;
+}
+header > nav.nav > ul.nav-items > li.nav-item > ul.right {
+  justify-content: flex-end;
+}
+header > nav.nav > ul.nav-items > li.nav-item > ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+header > nav.nav > ul.nav-items > li.nav-item > ul > li.nav-item {
+  padding: 0 0.5em;
+}
+
+header > nav.nav > ul.nav-items > li.nav-item button {
+  background-color: var(--c1);
+  color: var(--c2);
+}
+.brilliance {
+  font-size: 1.5em;
+}
+button.dropbtn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: var(--c2);
+  color: var(--c1);
+  padding: 15px 0px 15px 0px;
+  /* font-size: 16px; */
+  /* text-align: center; */
+  border: none;
+  cursor: pointer;
+  width: calc(calc(var(--text-huge) * 3) + 2px);
+  box-sizing: border-box;
+  padding: 15px 5px 15px 5px;
+  height: fit-content;
+  border-bottom: 1.5px solid var(--c1);
+}
+button.dropdown:focus {
+  outline: 3px solid var(--c1);
+}
+
+.dropbtn:hover {
+  background-color: var(--c1);
+  color: var(--c2);
+}
+
+.icon {
+  font-size: 1.1em;
+  /* position: absolute; */
+  top: 15px;
+  right: 45px;
+  display: none;
+}
+
+[class~="dropdown"] {
+  font-family: "Source Sans Pro";
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: var(--c2);
+  color: var(--c1);
+  min-width: calc(var(--text-huge) * 3);
+  overflow: scroll;
+  min-height: min-content;
+  height: 55vh;
+  border: 1px solid var(--c2);
+  z-index: 1;
+}
+
+.dropdown-content input[type="text"] {
+  background-color: var(--c2);
+  color: var(--c1);
+  width: calc(calc(var(--text-huge) * 3) + 2px);
+  margin: 0;
+}
+
+.dropdown-content a {
+  color: var(--c1);
+  padding: 15px 5px 15px 5px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {
+  background-color: var(--c1);
+  color: var(--c2);
+}
+
+.show {
+  display: block;
+}

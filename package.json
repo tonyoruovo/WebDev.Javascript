@@ -1,0 +1,31 @@
+{
+  "name": "WebDev.Javascript.web2",
+  "version": "1.0.0",
+  "description": "A website showcase of the mathaid.org",
+  "main": "server/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js",
+    "watch": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "passport": "^0.6.0",
+    "passport-facebook": "^3.0.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-twitter": "^1.0.4",
+    "userdb": "file:C://WebDev/Javascript/lib/userdb"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "jwt": "qwerty#123()",
+  "adminJWT": "250094qwertydelicious#123()mum",
+  "private_key": "secret"
+}
