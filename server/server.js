@@ -29,7 +29,7 @@ await connectdb()
   })
   .catch((e) => console.error("could not connect", e));
   
- const whiteList = [http://localhost:3000];
+ const whiteList = ["http://localhost:3000"];
   
 const corsOptions = {
 	origin: function(origin, callback) {
@@ -45,7 +45,7 @@ const corsOptions = {
 }
   
 const app = express();// initialises express
-app.use(cors(corsOption));
+app.use(cors(corsOptions));
 app.use(express.urlencoded({ extended: false }));
 // specifies a parser for payloads. This parser only parses
 // json payloads. To parse text we may add "application/text"
