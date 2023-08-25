@@ -50,3 +50,5 @@ const deleteOrigin = asyncHandler(async function(req, res) {
 	}
 	res.status(200).json();
 });
+
+export {addOrigin, deleteOrigin, getOrigin, getOrigins, putOrigin};
