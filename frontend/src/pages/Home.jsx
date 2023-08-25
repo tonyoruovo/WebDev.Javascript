@@ -1,7 +1,9 @@
 /* eslint-disable jsx-a11y/no-redundant-roles */
-
+import { useAccount } from "../providers/account";
   
 const Home = () => {
+  const { resetFetchState } = userAccount();
+  useEffect(() => resetFetchState(), []);
   return (<>
     <section style={{ padding: "0 6em" }}>
       <h2>Maecenas turpis lectus</h2>
