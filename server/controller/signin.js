@@ -123,6 +123,7 @@ export const postAdmin = asyncHandler(async function (req, res) {
     token: generateToken(id, pj.jwt), //generateToken(id, pj.adminJWT)//generateBasicToken(id, pass),
   });
 });
+
 /**
  * Encodes the given arguments in `Basic` authentication syntax which is:
  * `id:passcode` and then returns it as a base64 string.
@@ -133,6 +134,7 @@ export const postAdmin = asyncHandler(async function (req, res) {
 function generateBasicToken(id, passcode) {
   return Buffer.from(`${id}:${passcode}`, "utf-8").toString("base64");
 }
+
 /**
  * Generates a jwt and returns it as a jwt authorization header compatible `string`
  * @param {string} id the id of the user to which this token is assigned

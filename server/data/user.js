@@ -15,7 +15,7 @@ import root, { pj } from "../../root.js";
  * @returns {boolean} `true` if every parameter is not `null` and not `undefined` otherwise returns `false`
  */
 function allIsValid(...x) {
-  return x.reduce((y, z) => y && util.isValid(z));
+  return x.reduce((y, z) => y && util.isValid(z), true);
 }
 
 /**
